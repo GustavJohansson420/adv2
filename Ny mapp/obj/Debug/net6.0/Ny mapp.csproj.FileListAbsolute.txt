@@ -1,0 +1,5 @@
+C:\Users\Gamer\Desktop\Ny mapp\obj\Debug\net6.0\Ny mapp.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Ny mapp\obj\Debug\net6.0\Ny mapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\Ny mapp\obj\Debug\net6.0\Ny mapp.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\Ny mapp\obj\Debug\net6.0\Ny mapp.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\Ny mapp\obj\Debug\net6.0\Ny mapp.csproj.CoreCompileInputs.cache
